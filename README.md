@@ -67,11 +67,11 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ### 🏆 Top Ranked Open-Source Libraries (Sorted by Stars)
 
-> *All repositories are ranked in descending order according to their verified GitHub star counts. Click the star badge beside any library to inspect its live stargazers community.*
+> *All repositories are ranked in descending order according to their verified GitHub Stars_Counts. Click the Stars_Badge beside any library to inspect its live stargazers community.*
 
 ---
 
-#### 1. [Prisma](https://github.com/prisma/prisma) [![GitHub stars](https://img.shields.io/github/stars/prisma/prisma?style=social&color=white)](https://github.com/prisma/prisma/stargazers)
+#### 1. [Prisma](https://github.com/prisma/prisma) [![GitHub_Stars](https://img.shields.io/github/stars/prisma/prisma?style=social&color=white)](https://github.com/prisma/prisma/stargazers)
 * **Language & Ecosystem:** TypeScript / Node.js
 * **License:** Apache-2.0
 * **Key Features:** **The most downloaded ORM for Node.js and TypeScript** (exceeding 55M monthly npm downloads). Offers a declarative schema-first workflow (`schema.prisma`), generating a fully type-safe query client with IDE autocompletion. Includes **Prisma Migrate** for declarative schema diffing and **Prisma Studio** visual database browser.
@@ -80,7 +80,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 2. [GORM](https://github.com/go-gorm/gorm) [![GitHub stars](https://img.shields.io/github/stars/go-gorm/gorm?style=social&color=white)](https://github.com/go-gorm/gorm/stargazers)
+#### 2. [GORM](https://github.com/go-gorm/gorm) [![GitHub_Stars](https://img.shields.io/github/stars/go-gorm/gorm?style=social&color=white)](https://github.com/go-gorm/gorm/stargazers)
 * **Language & Ecosystem:** Go (Golang)
 * **License:** MIT
 * **Key Features:** The flagship developer-friendly ORM for Golang. Provides comprehensive auto-migrations, deep association handling (`Has One`, `Has Many`, `Belongs To`, `Many To Many`), polymorphic relations, nested transactions, context propagation, and extensible plugins/callbacks.
@@ -89,7 +89,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 3. [TypeORM](https://github.com/typeorm/typeorm) [![GitHub stars](https://img.shields.io/github/stars/typeorm/typeorm?style=social&color=white)](https://github.com/typeorm/typeorm/stargazers)
+#### 3. [TypeORM](https://github.com/typeorm/typeorm) [![GitHub_Stars](https://img.shields.io/github/stars/typeorm/typeorm?style=social&color=white)](https://github.com/typeorm/typeorm/stargazers)
 * **Language & Ecosystem:** TypeScript / JavaScript
 * **License:** MIT
 * **Key Features:** Supports both **Data Mapper** and **Active Record** patterns with expressive TypeScript decorators. Multi-database support across PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, CockroachDB, and MongoDB.
@@ -98,7 +98,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 4. [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) [![GitHub stars](https://img.shields.io/github/stars/drizzle-team/drizzle-orm?style=social&color=white)](https://github.com/drizzle-team/drizzle-orm/stargazers)
+#### 4. [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) [![GitHub_Stars](https://img.shields.io/github/stars/drizzle-team/drizzle-orm?style=social&color=white)](https://github.com/drizzle-team/drizzle-orm/stargazers)
 * **Language & Ecosystem:** TypeScript / Node.js / Bun / Edge Runtimes
 * **License:** Apache-2.0
 * **Key Features:** **SQL-native TypeScript ORM with zero binary dependencies** (~7KB bundle). Zero cold start overhead makes it ideal for Vercel Edge, Cloudflare Workers, and AWS Lambda. First-class support for Cloudflare D1, Turso, Neon, and Supabase. Features Drizzle Kit for automated schema migrations and Drizzle Studio.
@@ -107,7 +107,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 5. [Beego ORM](https://github.com/beego/beego) [![GitHub stars](https://img.shields.io/github/stars/beego/beego?style=social&color=white)](https://github.com/beego/beego/stargazers)
+#### 5. [Beego ORM](https://github.com/beego/beego) [![GitHub_Stars](https://img.shields.io/github/stars/beego/beego?style=social&color=white)](https://github.com/beego/beego/stargazers)
 * **Language & Ecosystem:** Go (Golang)
 * **License:** Apache-2.0
 * **Key Features:** Integrated ORM module within the high-performance Beego Go web framework. Supports pure Go types, automatic table creation, complex query construction, cross-database joins, and raw SQL execution.
@@ -116,7 +116,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 6. [Sequelize](https://github.com/sequelize/sequelize) [![GitHub stars](https://img.shields.io/github/stars/sequelize/sequelize?style=social&color=white)](https://github.com/sequelize/sequelize/stargazers)
+#### 6. [Sequelize](https://github.com/sequelize/sequelize) [![GitHub_Stars](https://img.shields.io/github/stars/sequelize/sequelize?style=social&color=white)](https://github.com/sequelize/sequelize/stargazers)
 * **Language & Ecosystem:** JavaScript / Node.js / TypeScript
 * **License:** MIT
 * **Key Features:** The veteran Promise-based Node.js ORM with battle-tested maturity. Supports PostgreSQL, MySQL, MariaDB, SQLite, DB2, Snowflake, and MSSQL. Provides solid transaction locking, connection pooling, and optimistic concurrency.
@@ -125,7 +125,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 7. [MyBatis-3](https://github.com/mybatis/mybatis-3) [![GitHub stars](https://img.shields.io/github/stars/mybatis/mybatis-3?style=social&color=white)](https://github.com/mybatis/mybatis-3/stargazers)
+#### 7. [MyBatis-3](https://github.com/mybatis/mybatis-3) [![GitHub_Stars](https://img.shields.io/github/stars/mybatis/mybatis-3?style=social&color=white)](https://github.com/mybatis/mybatis-3/stargazers)
 * **Language & Ecosystem:** Java
 * **License:** Apache-2.0
 * **Key Features:** The definitive SQL-first persistence mapper for Java. Instead of hiding SQL behind an abstraction, MyBatis maps custom SQL queries to Java domain objects via XML or annotations with dynamic SQL templating.
@@ -134,7 +134,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 8. [Knex.js](https://github.com/knex/knex) [![GitHub stars](https://img.shields.io/github/stars/knex/knex?style=social&color=white)](https://github.com/knex/knex/stargazers)
+#### 8. [Knex.js](https://github.com/knex/knex) [![GitHub_Stars](https://img.shields.io/github/stars/knex/knex?style=social&color=white)](https://github.com/knex/knex/stargazers)
 * **Language & Ecosystem:** JavaScript / TypeScript / Node.js
 * **License:** MIT
 * **Key Features:** The foundational, dialect-flexible SQL query builder for Node.js. Powers higher-level ORMs (such as Objection and Bookshelf). Features connection pooling, stream queries, schema migrations, and seeding CLI tools.
@@ -143,7 +143,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 9. [Dapper](https://github.com/DapperLib/Dapper) [![GitHub stars](https://img.shields.io/github/stars/DapperLib/Dapper?style=social&color=white)](https://github.com/DapperLib/Dapper/stargazers)
+#### 9. [Dapper](https://github.com/DapperLib/Dapper) [![GitHub_Stars](https://img.shields.io/github/stars/DapperLib/Dapper?style=social&color=white)](https://github.com/DapperLib/Dapper/stargazers)
 * **Language & Ecosystem:** .NET / C#
 * **License:** Apache-2.0
 * **Key Features:** The world's fastest open-source micro-ORM for .NET, created by Stack Overflow engineers. Extends `IDbConnection` with ultra-fast extension methods that execute raw SQL and map results directly to POCO classes with performance virtually identical to raw ADO.NET data readers.
@@ -152,7 +152,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 10. [sqlc](https://github.com/sqlc-dev/sqlc) [![GitHub stars](https://img.shields.io/github/stars/sqlc-dev/sqlc?style=social&color=white)](https://github.com/sqlc-dev/sqlc/stargazers)
+#### 10. [sqlc](https://github.com/sqlc-dev/sqlc) [![GitHub_Stars](https://img.shields.io/github/stars/sqlc-dev/sqlc?style=social&color=white)](https://github.com/sqlc-dev/sqlc/stargazers)
 * **Language & Ecosystem:** Go / Python / Kotlin
 * **License:** MIT
 * **Key Features:** Compiles raw SQL queries into type-safe, boilerplate-free code. Parses DDL and queries using real database engine parsers, verifying syntax and column types at compile time.
@@ -161,7 +161,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 11. [ent](https://github.com/ent/ent) [![GitHub stars](https://img.shields.io/github/stars/ent/ent?style=social&color=white)](https://github.com/ent/ent/stargazers)
+#### 11. [ent](https://github.com/ent/ent) [![GitHub_Stars](https://img.shields.io/github/stars/ent/ent?style=social&color=white)](https://github.com/ent/ent/stargazers)
 * **Language & Ecosystem:** Go (Golang)
 * **License:** Apache-2.0
 * **Key Features:** An entity framework for Go backed by schema-as-code and graph traversal concepts. Schemas are defined as pure Go code, generating fully type-safe graph-traversal APIs, database migrations, and GraphQL integrations via `entgql`.
@@ -170,7 +170,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 12. [Entity Framework Core](https://github.com/dotnet/efcore) [![GitHub stars](https://img.shields.io/github/stars/dotnet/efcore?style=social&color=white)](https://github.com/dotnet/efcore/stargazers)
+#### 12. [Entity Framework Core](https://github.com/dotnet/efcore) [![GitHub_Stars](https://img.shields.io/github/stars/dotnet/efcore?style=social&color=white)](https://github.com/dotnet/efcore/stargazers)
 * **Language & Ecosystem:** .NET / C#
 * **License:** MIT
 * **Key Features:** Microsoft's official flagship modern Object-Database Mapper for .NET. Features LINQ (Language Integrated Query), automatic change tracking, robust migrations, shadow properties, global query filters, and split queries.
@@ -179,7 +179,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 13. [Kysely](https://github.com/kysely-org/kysely) [![GitHub stars](https://img.shields.io/github/stars/kysely-org/kysely?style=social&color=white)](https://github.com/kysely-org/kysely/stargazers)
+#### 13. [Kysely](https://github.com/kysely-org/kysely) [![GitHub_Stars](https://img.shields.io/github/stars/kysely-org/kysely?style=social&color=white)](https://github.com/kysely-org/kysely/stargazers)
 * **Language & Ecosystem:** TypeScript / Node.js / Bun / Deno
 * **License:** MIT
 * **Key Features:** A pure, type-safe SQL query builder for TypeScript with zero dependencies and zero runtime generation. Infers return types directly from schema interfaces, providing autocomplete for column names and table joins.
@@ -188,7 +188,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 14. [Diesel](https://github.com/diesel-rs/diesel) [![GitHub stars](https://img.shields.io/github/stars/diesel-rs/diesel?style=social&color=white)](https://github.com/diesel-rs/diesel/stargazers)
+#### 14. [Diesel](https://github.com/diesel-rs/diesel) [![GitHub_Stars](https://img.shields.io/github/stars/diesel-rs/diesel?style=social&color=white)](https://github.com/diesel-rs/diesel/stargazers)
 * **Language & Ecosystem:** Rust
 * **License:** MIT / Apache-2.0
 * **Key Features:** A safe, extensible ORM and query builder for Rust that prevents runtime database errors at compile time. Generates query code with zero cost abstractions, ensuring queries are completely valid according to your database schema.
@@ -197,7 +197,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 15. [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) [![GitHub stars](https://img.shields.io/github/stars/sqlalchemy/sqlalchemy?style=social&color=white)](https://github.com/sqlalchemy/sqlalchemy/stargazers)
+#### 15. [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) [![GitHub_Stars](https://img.shields.io/github/stars/sqlalchemy/sqlalchemy?style=social&color=white)](https://github.com/sqlalchemy/sqlalchemy/stargazers)
 * **Language & Ecosystem:** Python
 * **License:** MIT
 * **Key Features:** The gold-standard Python database toolkit and ORM. Features a dual-layer architecture: the low-level **Core** (relational algebra expression engine) and the high-level **ORM** (Unit of Work and Data Mapper implementation). Pairs with **Alembic** for migrations. Full `asyncio` support in 2.x.
@@ -206,7 +206,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 16. [Peewee](https://github.com/coleifer/peewee) [![GitHub stars](https://img.shields.io/github/stars/coleifer/peewee?style=social&color=white)](https://github.com/coleifer/peewee/stargazers)
+#### 16. [Peewee](https://github.com/coleifer/peewee) [![GitHub_Stars](https://img.shields.io/github/stars/coleifer/peewee?style=social&color=white)](https://github.com/coleifer/peewee/stargazers)
 * **Language & Ecosystem:** Python
 * **License:** MIT
 * **Key Features:** A lightweight, expressive Python ORM that is simple to learn and intuitive to use. Implements the Active Record pattern with native support for SQLite, MySQL, and PostgreSQL, complete with schema migrations.
@@ -215,7 +215,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 17. [Doctrine ORM](https://github.com/doctrine/orm) [![GitHub stars](https://img.shields.io/github/stars/doctrine/orm?style=social&color=white)](https://github.com/doctrine/orm/stargazers)
+#### 17. [Doctrine ORM](https://github.com/doctrine/orm) [![GitHub_Stars](https://img.shields.io/github/stars/doctrine/orm?style=social&color=white)](https://github.com/doctrine/orm/stargazers)
 * **Language & Ecosystem:** PHP
 * **License:** MIT
 * **Key Features:** Enterprise-grade PHP Object-Relational Mapper implementing the strict Data Mapper pattern, decoupling persistence logic from domain entities. The default persistence layer of the Symfony framework.
@@ -224,7 +224,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 18. [SeaORM](https://github.com/SeaQL/sea-orm) [![GitHub stars](https://img.shields.io/github/stars/SeaQL/sea-orm?style=social&color=white)](https://github.com/SeaQL/sea-orm/stargazers)
+#### 18. [SeaORM](https://github.com/SeaQL/sea-orm) [![GitHub_Stars](https://img.shields.io/github/stars/SeaQL/sea-orm?style=social&color=white)](https://github.com/SeaQL/sea-orm/stargazers)
 * **Language & Ecosystem:** Rust
 * **License:** MIT / Apache-2.0
 * **Key Features:** An async, dynamic ORM for Rust built atop `SQLx`. Supports MySQL, Postgres, and SQLite with native async/await, dynamic query building, schema migrations, and code-generation tools.
@@ -233,7 +233,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 19. [Exposed](https://github.com/JetBrains/Exposed) [![GitHub stars](https://img.shields.io/github/stars/JetBrains/Exposed?style=social&color=white)](https://github.com/JetBrains/Exposed/stargazers)
+#### 19. [Exposed](https://github.com/JetBrains/Exposed) [![GitHub_Stars](https://img.shields.io/github/stars/JetBrains/Exposed?style=social&color=white)](https://github.com/JetBrains/Exposed/stargazers)
 * **Language & Ecosystem:** Kotlin / JVM
 * **License:** Apache-2.0
 * **Key Features:** JetBrains' idiomatic Kotlin SQL framework and ORM. Offers two API layers: a lightweight type-safe SQL DSL and a comprehensive DAO (Data Access Object) layer with coroutines support.
@@ -242,7 +242,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 20. [MikroORM](https://github.com/mikro-orm/mikro-orm) [![GitHub stars](https://img.shields.io/github/stars/mikro-orm/mikro-orm?style=social&color=white)](https://github.com/mikro-orm/mikro-orm/stargazers)
+#### 20. [MikroORM](https://github.com/mikro-orm/mikro-orm) [![GitHub_Stars](https://img.shields.io/github/stars/mikro-orm/mikro-orm?style=social&color=white)](https://github.com/mikro-orm/mikro-orm/stargazers)
 * **Language & Ecosystem:** TypeScript / JavaScript
 * **License:** MIT
 * **Key Features:** The only mainstream TypeScript ORM implementing **Unit of Work**, **Identity Map**, and **Data Mapper** together. Automatically batches queries into single atomic transactions, eliminating redundant roundtrips.
@@ -251,7 +251,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 21. [Objection.js](https://github.com/Vincit/objection.js) [![GitHub stars](https://img.shields.io/github/stars/Vincit/objection.js?style=social&color=white)](https://github.com/Vincit/objection.js/stargazers)
+#### 21. [Objection.js](https://github.com/Vincit/objection.js) [![GitHub_Stars](https://img.shields.io/github/stars/Vincit/objection.js?style=social&color=white)](https://github.com/Vincit/objection.js/stargazers)
 * **Language & Ecosystem:** JavaScript / TypeScript / Node.js
 * **License:** MIT
 * **Key Features:** SQL-friendly ORM built on top of the Knex.js query builder. Excels at complex relation expressions, JSON schema validation, graph inserts, and eager loading.
@@ -260,7 +260,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 22. [jOOQ](https://github.com/jOOQ/jOOQ) [![GitHub stars](https://img.shields.io/github/stars/jOOQ/jOOQ?style=social&color=white)](https://github.com/jOOQ/jOOQ/stargazers)
+#### 22. [jOOQ](https://github.com/jOOQ/jOOQ) [![GitHub_Stars](https://img.shields.io/github/stars/jOOQ/jOOQ?style=social&color=white)](https://github.com/jOOQ/jOOQ/stargazers)
 * **Language & Ecosystem:** Java
 * **License:** Apache-2.0 (OSS Edition) / Commercial
 * **Key Features:** Generates Java classes directly from database schemas to offer **compile-time checked, fluent SQL**. Strikes the perfect balance between raw SQL control and type safety, handling window functions, lateral joins, and CTEs natively.
@@ -269,7 +269,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 23. [Ecto](https://github.com/elixir-ecto/ecto) [![GitHub stars](https://img.shields.io/github/stars/elixir-ecto/ecto?style=social&color=white)](https://github.com/elixir-ecto/ecto/stargazers)
+#### 23. [Ecto](https://github.com/elixir-ecto/ecto) [![GitHub_Stars](https://img.shields.io/github/stars/elixir-ecto/ecto?style=social&color=white)](https://github.com/elixir-ecto/ecto/stargazers)
 * **Language & Ecosystem:** Elixir / Erlang BEAM
 * **License:** Apache-2.0
 * **Key Features:** The flagship database wrapper and query generator for Elixir. Deconstructs traditional ORM responsibilities into clean, composable modules: Schemas, Changesets (data casting & validation), and Repositories.
@@ -278,7 +278,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 24. [Hibernate ORM](https://github.com/hibernate/hibernate-orm) [![GitHub stars](https://img.shields.io/github/stars/hibernate/hibernate-orm?style=social&color=white)](https://github.com/hibernate/hibernate-orm/stargazers)
+#### 24. [Hibernate ORM](https://github.com/hibernate/hibernate-orm) [![GitHub_Stars](https://img.shields.io/github/stars/hibernate/hibernate-orm?style=social&color=white)](https://github.com/hibernate/hibernate-orm/stargazers)
 * **Language & Ecosystem:** Java / Jakarta EE
 * **License:** LGPL-2.1
 * **Key Features:** **The reference implementation of the Jakarta Persistence API (JPA)**. Features mature Data Mapper, Unit of Work, multi-level caching (L1/L2), dirty checking, and complex graph loading. Modernized for Jakarta EE 11 in Hibernate 7.x.
@@ -287,7 +287,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 25. [Bookshelf.js](https://github.com/bookshelf/bookshelf) [![GitHub stars](https://img.shields.io/github/stars/bookshelf/bookshelf?style=social&color=white)](https://github.com/bookshelf/bookshelf/stargazers)
+#### 25. [Bookshelf.js](https://github.com/bookshelf/bookshelf) [![GitHub_Stars](https://img.shields.io/github/stars/bookshelf/bookshelf?style=social&color=white)](https://github.com/bookshelf/bookshelf/stargazers)
 * **Language & Ecosystem:** JavaScript / Node.js
 * **License:** MIT
 * **Key Features:** Early JavaScript ORM built on Knex.js featuring both Promise-based and event-driven interfaces with association support.
@@ -296,7 +296,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 26. [Tortoise ORM](https://github.com/tortoise/tortoise-orm) [![GitHub stars](https://img.shields.io/github/stars/tortoise/tortoise-orm?style=social&color=white)](https://github.com/tortoise/tortoise-orm/stargazers)
+#### 26. [Tortoise ORM](https://github.com/tortoise/tortoise-orm) [![GitHub_Stars](https://img.shields.io/github/stars/tortoise/tortoise-orm?style=social&color=white)](https://github.com/tortoise/tortoise-orm/stargazers)
 * **Language & Ecosystem:** Python
 * **License:** Apache-2.0
 * **Key Features:** An easy-to-use asyncio ORM for Python inspired by the Django ORM. Built with relations, transactions, and modern `async/await` syntax from day one.
@@ -305,7 +305,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 27. [Waterline](https://github.com/balderdashy/waterline) [![GitHub stars](https://img.shields.io/github/stars/balderdashy/waterline?style=social&color=white)](https://github.com/balderdashy/waterline/stargazers)
+#### 27. [Waterline](https://github.com/balderdashy/waterline) [![GitHub_Stars](https://img.shields.io/github/stars/balderdashy/waterline?style=social&color=white)](https://github.com/balderdashy/waterline/stargazers)
 * **Language & Ecosystem:** JavaScript / Node.js
 * **License:** MIT
 * **Key Features:** Default datastore-agnostic ORM built for the Sails.js MVC framework.
@@ -314,7 +314,7 @@ The following SaaS and hosted persistence platforms provide managed connection p
 
 ---
 
-#### 28. [Bun](https://github.com/uptrace/bun) [![GitHub stars](https://img.shields.io/github/stars/uptrace/bun?style=social&color=white)](https://github.com/uptrace/bun/stargazers)
+#### 28. [Bun](https://github.com/uptrace/bun) [![GitHub_Stars](https://img.shields.io/github/stars/uptrace/bun?style=social&color=white)](https://github.com/uptrace/bun/stargazers)
 * **Language & Ecosystem:** Go (Golang)
 * **License:** BSD-2-Clause
 * **Key Features:** High-performance, SQL-first Golang client for PostgreSQL, MySQL, MSSQL, and SQLite. Combines query-builder speed with convenient struct mapping, bulk operations, and schema migrations.
@@ -340,7 +340,7 @@ Contributions are warmly welcomed! To contribute:
 
 1. **Fork the repository** to your GitHub account.
 2. **Add or refine an entry** in `README.md` keeping formatting consistent.
-3. **Include details**: Name, star badge link (`[![GitHub stars](https://img.shields.io/github/stars/owner/repo?style=social&color=white)](https://github.com/owner/repo/stargazers)`), language ecosystem, key strengths, trade-offs, and target use cases.
+3. **Include details**: Name, Stars_Badge link (`[![GitHub_Stars](https://img.shields.io/github/stars/owner/repo?style=social&color=white)](https://github.com/owner/repo/stargazers)`), language ecosystem, key strengths, trade-offs, and target use cases.
 4. **Submit a Pull Request** with a concise description of your additions.
 
 ---
